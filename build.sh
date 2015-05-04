@@ -1,3 +1,3 @@
 # To build the image from Dockerfile, use this command:
-#docker build -t="dliu/valgrind" .
+#docker build -t="dliu/ubuntu-gcc-valgrind" .
 
